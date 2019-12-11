@@ -1,0 +1,34 @@
+NET "blue"  LOC = "R11";
+NET "clk50_in"  LOC = "T9"  ;
+NET "green"  LOC = "T12"  ;
+NET "hs_out"  LOC = "R9"  ;
+NET "red"  LOC = "R12"  ;
+NET "vs_out"  LOC = "T10"  ;
+#NET "led"    LOC = "p12";
+
+net "botonColumna" loc = "L14";
+net "botonFila" loc ="L13";
+net "botonAb" loc = "M13";
+net "botonReset" loc = "M14";
+
+NET "output(0)" LOC = "E14";
+NET "output(1)" LOC = "G13";
+NET "output(2)" LOC = "N15";
+NET "output(3)" LOC = "P15";
+NET "output(4)" LOC = "R16";
+NET "output(5)" LOC = "F13";
+NET "output(6)" LOC = "N16";
+NET "output(7)" LOC = "P16";
+
+NET "display(0)" LOC = "E13";
+NET "display(1)" LOC = "F14";
+NET "display(2)" LOC = "G14";
+NET "display(3)" LOC = "D14";
+
+#net "ledindica" loc = "n3";
+#net "ledCol1" loc = "p11";
+#net "ledCol2" loc = "p12";
+#net "ledCol3" loc = "n12";
+#net "ledCol4" loc = "p13";
+#net "buzzer"   loc = "m3";
+#net "reset" loc = "l4";
